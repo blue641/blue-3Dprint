@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC
+    "-//OASIS//DTD DITA Reference//EN"
+    "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
+
+<reference id="sandwich-supplies">
+  <title>File Formats</title>
+  <shortdesc>The types of file formats that the 3DDS accepts.</shortdesc>
+  <refbody>
+    <simpletable id="supplies-table">
+        <title>Acceptable File Formats</title>
+        <sthead>
+            <stentry>Format</stentry>
+            <stentry>Description</stentry>
+            <stentry>Source</stentry>
+        </sthead>
+        <strow>
+            <stentry>.stl</stentry>
+            <stentry>STL (an abbreviation of "stereolithography") is a file format native to the stereolithography CAD software created by 3D Systems.[1][2][3] STL has several after-the-fact backronyms such as "Standard Triangle Language" and "Standard Tessellation Language".[4] This file format is supported by many other software packages; it is widely used for rapid prototyping, 3D printing and computer-aided manufacturing.[5] STL files describe only the surface geometry of a three-dimensional object without any representation of color, texture or other common CAD model attributes. The STL format specifies both ASCII and binary representations. Binary files are more common, since they are more compact.[6]
+            An STL file describes a raw, unstructured triangulated surface by the unit normal and vertices (ordered by the right-hand rule) of the triangles using a three-dimensional Cartesian coordinate system. In the original specification, all STL coordinates were required to be positive numbers, but this restriction is no longer enforced and negative coordinates are commonly encountered in STL files today. STL files contain no scale information, and the units are arbitrary.[7]</stentry>
+            <stentry>https://en.wikipedia.org/wiki/STL_</stentry>
+        </strow>
+        <strow>
+            <stentry>.onj</stentry>
+            <stentry>OBJ (or .OBJ) is a geometry definition file format first developed by Wavefront Technologies for its Advanced Visualizer animation package. The file format is open and has been adopted by other 3D graphics application vendors.
+                    The OBJ file format is a simple data-format that represents 3D geometry alone — namely, the position of each vertex, the UV position of each texture coordinate vertex, vertex normals, and the faces that make each polygon defined as a list of vertices, and texture vertices. Vertices are stored in a counter-clockwise order by default, making explicit declaration of face normals unnecessary. OBJ coordinates have no units, but OBJ files can contain scale information in a human readable comment line.</stentry>
+            <stentry>https://en.wikipedia.org/wiki/Wavefront_.obj_file</stentry>
+        </strow>
+    </simpletable>
+  </refbody>
+</reference>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC
+    "-//OASIS//DTD DITA Task//EN"
+    "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="enter-meaningful-id-here">
+  <title>Making a Design</title>
+  <shortdesc>
+    You have chosen to make a custom design for yourself. There are many programs for you to use and the following will be a general overview of how to make and save the right part!
+  </shortdesc>
+
+  <taskbody>
+    <context>
+      <p>You should have some CAD expereince or at least know what you want to make. The next steps will generally get you to make the part and show you how to save it properly.</p>
+    </context>
+      <step>
+          <cmd>Open your internet browser or CAD software.</cmd>
+      </step>
+      <step>
+          <cmd>Log into https://www.thingiverse.com/</cmd>
+      </step>
+      <step>
+          <cmd>Find the search bar in the top right corner.</cmd>
+      </step>
+      <step>
+          <cmd>Type in a keyword for the part you wish to find.</cmd>
+          <example>Pokemon, Google Home Mount, Bathroom, etc.</example>
+      </step>
+      <step>
+          <cmd>Scroll through the results looking at the thumbnails and names.</cmd>
+      </step>
+      <step>
+          <cmd>Click on a file that looks appropriate</cmd>
+      </step>
+      <step>
+          <cmd>Click on download all files.</cmd>
+      </step>
+      <step>
+          <cmd>Open your finder or file explorer.</cmd>
+      </step>
+      <step>
+          <cmd>Open your downloads folder.</cmd>
+      </step>
+      <step>
+          <cmd>Find the zipfile you just downloaded.</cmd>
+      </step>
+      <step>
+          <cmd>Unzip the folder into the same folder.</cmd>
+      </step>
+      <step>
+          <cmd>Plug in a flashdrive.</cmd>
+      </step>
+      <step>
+          <cmd>Move the extracted files from the downloads folder to the flashdrive.</cmd>
+      </step>
+      <step>
+          <cmd>Eject the flashdrive.</cmd>
+      </step>
+      <result>
+        <p>You now have a flashdrive with a printable file ready for the 3D Design Studio.</p>
+      </result>
+    </taskbody>
+</task>

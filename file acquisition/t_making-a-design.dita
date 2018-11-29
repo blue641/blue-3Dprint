@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC
+    "-//OASIS//DTD DITA Task//EN"
+    "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="enter-meaningful-id-here">
+  <title>Finding a Design</title>
+  <shortdesc>
+    You may not have the time to design what you would like or you do not know how either way the internet has plenty of safe website for you to search for what you need.
+  </shortdesc>
+
+  <taskbody>
+    <context>
+      <p>You have decided to print something at the 3D Design Studio but do not wish to design the part yourself. Never the less you still need a part file to print. It needs to be an .stl or a .obj. and you are about to search online for one.</p>
+    </context>
+      <step>
+          <cmd>Open your CAD program.</cmd>
+      </step>
+      <step>
+          <cmd>Make a new file or pull up an old one.</cmd>
+      </step>
+      <step>
+          <cmd>Create or modify the file to not have any featuers smaller than .38mm or .015 in. and all fittings are tolerances using those same measurements.</cmd>
+      </step>
+      <step>
+          <cmd></cmd>
+          <example>Pokemon, Google Home Mount, Bathroom, etc.</example>
+      </step>
+      <step>
+          <cmd>Scroll through the results looking at the thumbnails and names.</cmd>
+      </step>
+      <step>
+          <cmd>Click on a file that looks appropriate</cmd>
+      </step>
+      <step>
+          <cmd>Click on download all files.</cmd>
+      </step>
+      <step>
+          <cmd>Open your finder or file explorer.</cmd>
+      </step>
+      <step>
+          <cmd>Open your downloads folder.</cmd>
+      </step>
+      <step>
+          <cmd>Find the zipfile you just downloaded.</cmd>
+      </step>
+      <step>
+          <cmd>Unzip the folder into the same folder.</cmd>
+      </step>
+      <step>
+          <cmd>Plug in a flashdrive.</cmd>
+      </step>
+      <step>
+          <cmd>Move the extracted files from the downloads folder to the flashdrive.</cmd>
+      </step>
+      <step>
+          <cmd>Eject the flashdrive.</cmd>
+      </step>
+      <result>
+        <p>You now have a flashdrive with a printable file ready for the 3D Design Studio.</p>
+      </result>
+    </taskbody>
+</task>
